@@ -1,6 +1,6 @@
 # Remove-duplicates-excel
 
-To remove duplicate rows from excel file and replace it by one row with mean values in columns.
+To remove duplicated rows from excel file and replace it by one row with mean values in columns.
 
 __Put the filename for processing as an argument.__
 
