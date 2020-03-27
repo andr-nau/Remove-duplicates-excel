@@ -2,7 +2,7 @@
 
 To remove duplicated rows from excel file and replace it by one row with mean values in columns.
 
-__Put the filename for processing as an argument.__
+__Put the excel file name for processing as an argument.__
 
 I need this code for my workflow and, at the same time, this is a test exercise for Pandas module.
 
