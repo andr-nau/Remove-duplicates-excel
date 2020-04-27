@@ -7,7 +7,7 @@ __Put the excel file name for processing as an argument.__
 I need this code for my workflow and, at the same time, this is a test exercise for Pandas module.
 
 Sample result in graphical form:
-![Result in graphical form](https://github.com/andr-nau/Remove-duplicates-excel/blob/master/dup_excel%20result.gif "Sample result")
+![Result in graphical form](https://github.com/andr-nau/Remove-duplicates-excel/blob/master/dup_excel_result.gif "Sample result")
 
 
 Included test file (test11.xlsx) is the result of measurement of noise RC-filter. File consists of 6 columns:
