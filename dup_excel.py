@@ -1,6 +1,6 @@
 """
 Input: Excel file as an argument.
-Excel file consists of measurement results in tabulated form.
+Excel file consists of measurements data in tabulated form.
 
 Goal: to replace rows with duplicated frequency (column1) with 
 single row with averaged values in other columns.
